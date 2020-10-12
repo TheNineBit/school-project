@@ -1,0 +1,68 @@
+.title1{
+    color: green;
+    font-size: 35px;
+    font-family:Arial;
+    position: absolute;
+    visibility: visible;
+    right: 1220px;
+    top: 10px;
+}
+
+.title2{
+    color: green;
+    font-size: 45px;
+    font-family: Arial;
+    position: absolute;
+    visibility: visible;
+    right: 1235px;
+    top: 30px;
+}
+
+.bodybkg{
+    background-color:#F0F8FF;
+}
+
+.searchbar{
+    width: 550px;
+    height: 17px;
+    position: absolute;
+    visibility: visible;
+    right: 550px;
+    top: 70px;
+}
+
+.contimg{
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    visibility: visible;
+    right: 250px;
+    top: 20px;
+}
+
+.cont{
+    font-size: 18px;
+    font-family:Arial;
+    position: absolute;
+    visibility: visible;
+    right: 271px;
+    top: 70px;
+}
+
+.cosimg{
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    visibility: visible;
+    right: 90px;
+    top: 20px;
+}
+
+.cos{
+    font-size: 18px;
+    font-family:Arial;
+    position: absolute;
+    visibility: visible;
+    right: 113px;
+    top: 70px;
+}
